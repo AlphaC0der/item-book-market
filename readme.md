@@ -1,4 +1,4 @@
-<h1><strong>OptimizedHTML 4:</strong> <br>Startup HTML template based on Gulp & Bootstrap 4</h1>
+<h1><strong>OptimizedHTML 4:</strong> <br>Item book market template based on Gulp & Bootstrap 4</h1>
 
 <p>
 
@@ -6,7 +6,7 @@
 
 <p>Author: <a href="http://alpha-coder.kz" target="_blank">Alpha-Coder</a></p>
 
-<p>OptimizedHTML is all-inclusive start HTML5 template with Bootstrap 4 (grid & reboot), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Rsync and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
+<p>Item book market is all-inclusive start HTML5 template with Bootstrap 4 (grid & reboot), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Rsync and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
 <p><strong>OptimizedHTML 4</strong> Start Template uses the best practices of web development.</p>
 
