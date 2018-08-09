@@ -1,4 +1,4 @@
-<h1><strong>OptimizedHTML 4:</strong> <br>Item book market template based on Gulp & Bootstrap 4</h1>
+<h1><strong>Item book market </strong> <br>Item book market template based on Gulp & Bootstrap 4</h1>
 
 <p>
 
